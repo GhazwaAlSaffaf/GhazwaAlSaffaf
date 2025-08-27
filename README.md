@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ghazwa AlSaffaf  
+# ​ Hi, I’m Ghazwa AlSaffaf  
 
 🎯 **Data Analyst | Lifelong Learner | Tech Enthusiast**  
 
@@ -6,7 +6,7 @@ I’m passionate about transforming **data into insights** that drive decisions 
 
 ---
 
-## 🔥 What I Do  
+## ​ What I Do  
 - 📊 **Data Analytics & Visualization** – Tableau, Power BI, SQL (Athena, Presto)  
 - 🛠️ **Data Engineering Basics** – structuring, cleaning, and normalizing data  
 - ✈️ **Travel & Consumer Data** – working with flights, hotels, activities, add-ons (insurance, eSIM, transfers)  
@@ -14,7 +14,7 @@ I’m passionate about transforming **data into insights** that drive decisions 
 
 ---
 
-## 🛠️ Tech Stack  
+## ​​ Tech Stack  
 - **Languages & Tools**: SQL, Python  
 - **Visualization**: Tableau, Power BI  
 - **Platforms**: AWS, GitHub  
@@ -22,7 +22,7 @@ I’m passionate about transforming **data into insights** that drive decisions 
 
 ---
 
-## 🌍 About Me  
+## ​ About Me  
 - Based in **Riyadh, Saudi Arabia**  
 - Originally from **Syria 🇸🇾**  
 - Love **reading, libraries, and continuous learning**  
@@ -30,11 +30,10 @@ I’m passionate about transforming **data into insights** that drive decisions 
 
 ---
 
-## 📫 Let’s Connect!  
-- 💼 [LinkedIn](#) (add your link)  
-- 📧 Email: *your-email@example.com*  
-- 🐙 GitHub: [@your-username](#)  
-
+## ​ Let’s Connect!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ghazwa-saffaf-93b39512a/)  
+- 📧 Email: *ghazwa.alsaffaf@gmail.com*
+- 
 ---
 
 ✨ *“Data is not just numbers — it’s a story waiting to be told.”*
